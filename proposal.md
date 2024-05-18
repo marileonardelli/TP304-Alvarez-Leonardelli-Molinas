@@ -1,4 +1,4 @@
-# Propuesta TP DSW
+# Propuesta TP DS
 
 ## Grupo
 ### Integrantes
