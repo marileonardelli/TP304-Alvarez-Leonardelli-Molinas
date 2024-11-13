@@ -6,7 +6,11 @@
 47786 - Molinas María del Rosario
 
 ### Link Front y Back End
-https://github.com/solalvarez15/NanoTec-ndigo
+https://github.com/rosariomolinas/FrontEnd
+https://github.com/rosariomolinas/BackEnd
+
+### Link Modelo Dominio
+https://drive.google.com/file/d/17oPDkYYfvcBED89_CynL1rDIaq_Wg-zL/view?usp=sharing
 
 ### Descripción
 NanoGenTech es la nueva tecnología de Indigo que se encarga de presupuestar y agendar exploraciones médicas en pacientes humanos, así como también reservar y visualizar sus turnos en el quirofano.
